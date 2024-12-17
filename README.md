@@ -2,11 +2,8 @@
   <br>
   <samp>
     🌜 Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/luazinha_l/">Lua</a></b> 🌛
-    <br>I'm a Computer Science undergraduate student from Brasil.<br>
+    <br>I'm a Computer Science Bachelor from Brasil.<br>
     
-  <a href="https://twitter.com/luaintheskywd">
-  <img align="center" alt="Luanna's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/luanna-leonel-1932921b6/">
   <img align="center" alt="Luanna's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
